@@ -12,6 +12,7 @@ module.exports = {
         secondary:'#64748b',
         dark:'#0f172a',
         green:'#34d399',
+        red:'#FF0000'
         
       },
       screens:{
