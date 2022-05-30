@@ -15,6 +15,9 @@ module.exports = {
         red:'#FF0000'
         
       },
+      animation: {
+        'spin-slow': 'spin 3s linear infinite',
+      },
       screens:{
         '2xl':'1420px',
       }
